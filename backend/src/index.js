@@ -55,4 +55,6 @@ app.use(routes);
  */
 
 //local onde acesso a aplicação porta 3333
+//instalar pacote de icones no react via npm instal e importar no projeto 
+//instalar pacote de gerenciamento de rota no react e instalar via npm instal "npm install react-router-dom"
 app.listen(3333);
