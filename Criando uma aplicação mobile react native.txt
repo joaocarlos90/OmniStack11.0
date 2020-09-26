@@ -1,0 +1,6 @@
+Abra o prompt de comando do windows como administrador e execute a seguinte sequencia de comandos para criar uma aplicação mobile:
+
+1 - instalar o expo com comando "npm install -g expo-cli"
+2 - Va até o diretorio que deseja criar o projeto e digite "expo init mobile" e selecione "blank"
+3 - depois de instalado entre na pasta que voce criou no nosso caso "mobile" e digite o comando"code" para iniciar o projeto nov visual studio code na raiz do projeto
+ 
